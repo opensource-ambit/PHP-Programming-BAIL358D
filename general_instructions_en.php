@@ -60,7 +60,9 @@
 		*/
 	?>	
 
-	<?php
+
+
+<?php
 		/*		
 			If code.php has errors, check error description on terminal
 				$php code.php
@@ -116,14 +118,15 @@
 				entire code should not begin on same column
 		*/
 	?>
-	
-	<?php
-		/*	
-			
-		*/
-	?>
-			
-	<?php
+				
+
+
+
+
+
+
+
+<?php
 		/*	Same programs need not be followed
 			If you feel programs are lengthy and complicated
 			and can write better, please do
@@ -134,3 +137,8 @@
 		*/
 	?>
 			
+	<?php
+		/*	
+			
+		*/
+	?>
