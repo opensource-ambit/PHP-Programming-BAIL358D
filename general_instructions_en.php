@@ -111,7 +111,7 @@
 					Four spaces, by use of spacebar key of keyboard
 			
 			Not a part of syntax, but
-				please do not entire program beginning on same column
+				please do not code entire program beginning on same column, entire code should not begin on same column
 		*/
 	?>
 	
