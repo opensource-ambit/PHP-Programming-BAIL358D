@@ -62,7 +62,7 @@
 
 
 
-<?php
+	<?php
 		/*		
 			If code.php has errors, check error description on terminal
 				$php code.php
@@ -118,7 +118,6 @@
 				entire code should not begin on same column
 		*/
 	?>
-				
 
 
 
@@ -126,7 +125,8 @@
 
 
 
-<?php
+			
+	<?php
 		/*	Same programs need not be followed
 			If you feel programs are lengthy and complicated
 			and can write better, please do
@@ -136,9 +136,10 @@
 				https://vtu.ac.in/pdf/2022_3to8/2aimlsyll.pdf
 		*/
 	?>
-			
+
 	<?php
 		/*	
-			Problem definition, followed by	program			
+			Problem definition, followed by	program
 		*/
 	?>
+			
