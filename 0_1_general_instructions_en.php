@@ -43,10 +43,10 @@
 					after file browsing to folder /var/www/html
 			Or
 			If comfortable with terminal and commands
-				use mv, move command, $mv source destination
-					$mv code.php /var/www/html/
-				or use cp, copy command, $cp source destination
-					$cp code.php /var/www/html/
+				use mv, move command, $ mv source destination
+					$ mv code.php /var/www/html/
+				or use cp, copy command, $ cp source destination
+					$ cp code.php /var/www/html/
 			
 			If code.php does not have errors, and Apache httpd 
 				daemon is running, and php is installed
@@ -65,7 +65,7 @@
 	<?php
 		/*		
 			If code.php has errors, check error description on terminal
-				$php code.php
+				$ php code.php
 					read, understand, and correct error and retry
 					
 			make sure code.php is saved in current/working directory
@@ -73,10 +73,10 @@
 			current/working directory is /var/www/html/
 			
 			To check current/working directory, on terminal
-				$pwd
+				$ pwd
 				
 			To check files in current directory, on terminal
-				$ls
+				$ ls
 			ls, list directory contents, code.php should be listed
 			
 			To change directory, 
@@ -89,7 +89,7 @@
 				or
 				Using terminal, and command, 
 					cd, Change the shell working directory
-						$cd /var/www/html
+						$ cd /var/www/html
 		*/
 	?>	
 
