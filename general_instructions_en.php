@@ -139,6 +139,6 @@
 			
 	<?php
 		/*	
-			
+			Problem definition, followed by	program			
 		*/
 	?>
