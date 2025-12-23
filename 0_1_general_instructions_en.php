@@ -127,19 +127,19 @@
 
 			
 	<?php
+		/*	
+			Problem definition, followed by	program
+		*/
+	?>
+	
+	<?php
 		/*	Same programs need not be followed
 			If you feel programs are lengthy and complicated
-			and can write better, please do
+			and can simplify, improve, please do
 				as long as programs satisfy problem definitions
 			
 			PHP Programming, problem definitions, please refer syllabus
 				https://vtu.ac.in/pdf/2022_3to8/2aimlsyll.pdf
 		*/
-	?>
-
-	<?php
-		/*	
-			Problem definition, followed by	program
-		*/
-	?>
+	?>	
 			
