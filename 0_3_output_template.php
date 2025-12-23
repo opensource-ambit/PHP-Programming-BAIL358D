@@ -1,33 +1,39 @@
 <!doctype html>
 <html>
   <head>
-    <title>Experiment name in short</title>
+    <title> Experiment name in short </title>
   </head>
   <body>
-    <p style="text-align: right;"> USN: 4JC13SCE12 </p> 
-    <!-- This is HTML comment -->
+    <p style="text-align: right;"> USN: YourUSN </p> 
+    <!-- This is HTML comment --> 
     
-    <p style="text-align: right;"> Date: 22 November 2025 </p>     
-    <!-- paragraph (<p>) element -->
+    <p style="text-align: right;"> Date: Day Month Year </p> 
+    <!-- paragraph (<p>) element --> 
         
     <p style="text-align: center;"> PHP Programming BAIL358D </p> 
-    <!-- Inline CSS to align the text to the center-->
+    <!-- Inline CSS to align the text to the center--> 
   	
-    <p> Experiment Number. Problem statement </p>
+    <p> Experiment Number. Problem statement </p> 
     
-    <hr/> <!-- thematic break or horizontal line -->
+    <hr/> <!-- thematic break or horizontal line --> 
     
-    <p style="text-align: center;"> Output: </p>     
+    <p style="text-align: center;"> Output: </p> 
     
-    <!-- start of PHP code -->    
+    <!-- If problem definition expects user input then --> 
+    <!-- start of form element markup --> 
+    	<!-- 
+		    <form method="" action=""> 
+		    	 input from user: <input type="" name="" /> 
+								  <input type="submit" value="Submit" /> 
+	        </form> 
+		--> 
+    <!-- end of form element markup --> 
     
-	<?php
-	
+    <!-- start of PHP code --> 
+	<?php 
 		  // PHP code goes here
-		  
-	?>
-	
-	<!-- end of PHP code -->
+	?> 
+	<!-- end of PHP code --> 
 	
   </body>
 </html>
