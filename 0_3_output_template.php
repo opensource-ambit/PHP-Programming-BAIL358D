@@ -13,7 +13,7 @@
     <p style="text-align: center;"> PHP Programming BAIL358D </p> 
     <!-- Inline CSS to align the text to the center--> 
   	
-    <p> Experiment Number. Problem statement </p> 
+    <p> Experiment Number. Experiment(also known as problem statement) </p> 
     
     <hr/> <!-- thematic break or horizontal line --> 
     
