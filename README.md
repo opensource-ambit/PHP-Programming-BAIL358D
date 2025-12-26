@@ -21,22 +21,28 @@ Output templates, PHP (and HTML)
 
 
 Programs:
-1. 
-  1. [1a_area.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/1a_area.pdf)
-  2. [1b_ci.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/1b_ci.pdf)
-2. 
-3. 
-4. 
-5. 
-6. 
-  1. 
-  2. [6b_fibonacci_recursive.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/6b_fibonacci_recursive.pdf)
-7. 
-8. 
-9. 
+
+1.  
+   1. [1a_area.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/1a_area.pdf)
+   2. [1b_ci.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/1b_ci.pdf)
+
+2. ...
+   
+3. ...
+   
+4. ...
+
+5. ...
+   1. ...
+   2. [6b_fibonacci_recursive.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/6b_fibonacci_recursive.pdf)
+   
+6. ...
+7. ...
+8. ...
+9. ...
 10. [10_emp_class.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/10_emp_class.pdf)
-11. 
-12. 
+11. ...
+12. ...
   * [12_1_html_form.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/12_1_html_form.pdf)
   * [12_2_disp_user_input.pdf](https://github.com/opensource-ambit/PHP-Programming-BAIL358D/blob/main/12_2_disp_user_input.pdf)
-    
+
